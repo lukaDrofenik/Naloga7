@@ -1,4 +1,10 @@
 # Zgodovina sprememb
+
+
+### Dodano vloga C
+- Dodani testni scenariji za tri funkcionalnosi
+- Posodobljen kontakt.html z mojimi podatki
+
 Luka:
 - Dodan README.md
 - Zapisane funkcjonalnosti
@@ -14,3 +20,4 @@ Dino:
 
 
 ## Potrditev pull requesta za združevanje na main vejo od Dinota in Lana
+
