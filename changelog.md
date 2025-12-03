@@ -8,7 +8,7 @@ Luka:
 - Ustvarjanje (te) datoteke changelog.md
 
 Dino:
--Ustvaril index.html ter ga po odobritvi lastnika prestavil v main.
--Ustvaril kontakt.html ter ga po odobritvi lastnika prestavil v main.
+- Ustvaril index.html ter ga po odobritvi lastnika prestavil v main.
+- Ustvaril kontakt.html ter ga po odobritvi lastnika prestavil v main.
 
 
